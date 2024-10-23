@@ -1,5 +1,10 @@
 # Text Summarization Model
 
+
+### Model and Dataset Information
+
+This project utilizes the **[google-t5-finetuning-text-summarization](https://huggingface.co/Waris01/google-t5-finetuning-text-summarization)** model from Hugging Face, trained on the **microsoft/MeetingBank-QA-Summary** dataset for effective text summarization.
+
 This repository contains a text summarization model built using Hugging Face Transformers. The model is designed to generate concise and coherent summaries from longer text inputs, enhancing information retrieval and comprehension.
 
 ## Features
